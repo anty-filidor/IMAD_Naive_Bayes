@@ -1,4 +1,5 @@
 #Indukcyjne metody analizy danych
+
 __DAN, W8, PWr__
 
 __Naive Bayes - 2018__
